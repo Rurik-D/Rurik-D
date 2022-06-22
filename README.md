@@ -1,7 +1,13 @@
 # Hi there, welcome on my Github profile! 👋
-## I am a university student of computer science.💻
-
+## I am a university student of computer science.💻   
 ## I'll publish here all my works, projects and some notes made during my student carrer!
+---
+## University notes(ita):
+
+ Appunti         | Stato 
+-----------------|-------------
+ Assembly (Mips) | Da publicare
+ |
 
 ---
 > **Languages and Tools:**  
@@ -10,6 +16,7 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rurik-D&theme=radical&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 <!--
 **Rurik-D/Rurik-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

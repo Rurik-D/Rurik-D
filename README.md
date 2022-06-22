@@ -7,7 +7,7 @@
  Materia           | Appunti | Esercizi |Stato 
 -------------------|---------|----------|-------
  Assembly (Mips)   | [x]     | [x]      | Da publicare
- Python (esercizi) | [ ]     | [x]      | Da publicare
+ Python            | [ ]     | [x]      | Da publicare
 
 
 ---

@@ -4,10 +4,11 @@
 ---
 ## University notes(ita):
 
- Appunti         | Stato 
------------------|-------------
- Assembly (Mips) | Da publicare
- |
+ Materia           | Appunti | Esercizi |Stato 
+-------------------|---------|----------|-------
+ Assembly (Mips)   | [x]     | [x]      | Da publicare
+ Python (esercizi) | [ ]     | [x]      | Da publicare
+
 
 ---
 > **Languages and Tools:**  

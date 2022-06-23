@@ -1,6 +1,6 @@
 # Hi there, welcome on my Github profile! 👋
 ## I am a university student of computer science.💻   
-## I'll publish here all my works, projects and some notes made during my student carrer!
+## I'll publish here all my works, projects and some notes made during my student career!
 ---
 ## University notes(ita):
 

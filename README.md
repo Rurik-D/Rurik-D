@@ -1,13 +1,14 @@
 # Hi there, welcome on my Github profile! 👋
-## I am a university student of computer science.💻   
+## I am a university student of computer science and an aspiring game designer.💻👾   
 ## I'll publish here all my works, projects and some notes made during my student career!
 ---
 ## University notes(ita):
 
  Materia           | Appunti | Esercizi |Stato 
 -------------------|---------|----------|-------
- Assembly (Mips)   | [x]     | [x]      | Da publicare
- Python            | [ ]     | [x]      | Da publicare
+ Assembly (Mips)   | [x]     | [x]      | In corso
+ Python            | [ ]     | [x]      | In corso
+ Java              | [ ]     | [x]      | Da pubblicare
 
 
 ---

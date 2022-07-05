@@ -1,5 +1,5 @@
 # Hi there, welcome on my Github profile! 👋
-## I am a university student of computer science and an aspiring game designer.💻👾   
+## I am a university student of computer science and aspiring game designer.💻👾   
 ## I'll publish here all my works, projects and some notes made during my student career!
 ---
 ## University notes(ita):

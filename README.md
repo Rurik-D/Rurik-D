@@ -2,7 +2,7 @@
 ## I am a university student of computer science and aspiring game developer.💻👾   
 ## I'll publish here all my works, projects and some notes made during my student career!
 ---
-## University notes(ita):
+## Practical Programming Notes (ita):
 
  Materia           | Appunti | Esercizi |Stato 
 -------------------|---------|----------|-------

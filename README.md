@@ -6,9 +6,9 @@
 
  Materia           | Appunti | Esercizi |Stato 
 -------------------|---------|----------|-------
- Assembly (Mips)   | [x]     | [x]      | In corso
- Python            | [ ]     | [x]      | In corso
- Java              | [ ]     | [x]      | Da pubblicare
+ Assembly (Mips)   | [[x](https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Assembly%20(mips)/Appunti)]     | [ ]      | Appunti da revisionare
+ Python            | [ ]     | [[x](https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Python/Esercizi)]      | In corso
+ Java              | [ ]     | [ ]      | Da pubblicare
 
 
 ---

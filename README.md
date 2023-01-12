@@ -13,7 +13,7 @@
  Python            | [ ]     | [[x](https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Python/Esercizi)]      | In corso
  Java              | [ ]     | [ ]      | Da pubblicare
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?name=Rurik-D&show_owner&repo=Practical-Programming-Notes&theme=radical)](https://github.com/Rurik-D/Practical-Programming-Notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rurik-D&show_owner&repo=Practical-Programming-Notes&theme=radical)](https://github.com/Rurik-D/Practical-Programming-Notes)
 
 ---
 

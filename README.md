@@ -55,7 +55,9 @@
 </center>
 
 <center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rurik-D&theme=radical&layout=compact" />
+    <tr>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rurik-D&theme=radical&layout=compact" />
+    </tr>
 </center>
 
 ---

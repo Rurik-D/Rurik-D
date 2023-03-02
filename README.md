@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <td align = "center">Assembly (Mips)</td>
-        <td align = "center"><a style="display:block;" href="https://github.com"> 
+        <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Assembly%20(mips)/Appunti"> 
             <div> ✓ </div> 
         </td>
         <td align="center">-</td>
@@ -38,7 +38,7 @@
     <tr>
         <td align = "center">Python</td>
         <td align = "center">-</td>
-            <td align = "center"><a style="display:block;" href="https://github.com">
+            <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Python">
             <div> ✓ </div>
         </td>
         <td align = "center">In corso</td>

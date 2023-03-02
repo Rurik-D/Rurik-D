@@ -87,7 +87,7 @@
 ---
 <tr>
     <td>
-    <img src="https://github.com/Rurik-D/Rurik-D/blob/main/gif/x.gif"/>
+    <img align="center" src="https://github.com/Rurik-D/Rurik-D/blob/main/gif/x.gif" width="1000"/>
     </td>
 </tr>
 

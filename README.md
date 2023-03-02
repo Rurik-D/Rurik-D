@@ -7,37 +7,37 @@
 
 ## **Practical Programming Notes (ita):**
 
-<center>
-    <table>
-    <tr>
-        <td align = "center"><strong>Materia</td>
-        <td align = "center"><strong>Appunti</td>
-        <td align = "center"><strong>Esercizi</td>
-        <td align = "center"><strong>Stato</td>
-    </tr>
-    <tr>
-        <td align = "center">Assembly (Mips)</td>
-        <td align = "center"><a style="display:block;" href="https://github.com"> 
-            <div> ✓ </div> 
-        </td>
-        <td align="center">-</td>
-        <td align = "center">Da revisionare</td>
-    <tr>
-        <td align = "center">Python</td>
-        <td align = "center">-</td>
-            <td align = "center"><a style="display:block;" href="https://github.com">
-            <div> ✓ </div>
-        </td>
-        <td align = "center">In corso</td>
-    </tr>
-    <tr>
-        <td align = "center">Java</td>
-        <td align = "center">-</td>
-        <td align = "center">-</td>
-        <td align = "center">Da pubblicare</td>
-    </tr>
-    </table>
-</center>
+
+<table align = "center">
+<tr>
+    <td align = "center"><strong>Materia</td>
+    <td align = "center"><strong>Appunti</td>
+    <td align = "center"><strong>Esercizi</td>
+    <td align = "center"><strong>Stato</td>
+</tr>
+<tr>
+    <td align = "center">Assembly (Mips)</td>
+    <td align = "center"><a style="display:block;" href="https://github.com"> 
+        <div> ✓ </div> 
+    </td>
+    <td align="center">-</td>
+    <td align = "center">Da revisionare</td>
+<tr>
+    <td align = "center">Python</td>
+    <td align = "center">-</td>
+        <td align = "center"><a style="display:block;" href="https://github.com">
+        <div> ✓ </div>
+    </td>
+    <td align = "center">In corso</td>
+</tr>
+<tr>
+    <td align = "center">Java</td>
+    <td align = "center">-</td>
+    <td align = "center">-</td>
+    <td align = "center">Da pubblicare</td>
+</tr>
+</table>
+
 
 <p align="center">
   <a href="https://github.com/Rurik-D/Practical-Programming-Notes">

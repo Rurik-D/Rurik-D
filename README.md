@@ -56,9 +56,9 @@
 
 ---
 
-<a>
+<center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rurik-D&theme=radical&count_private=true" />
-</a>
+</center>
 
 ---
 

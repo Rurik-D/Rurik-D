@@ -1,12 +1,12 @@
 
-<p>
-    <h1 align="center">
+<p style="color:purple">
+    <h1 align="center" style="color:purple;background-color:black;font-family:CMU Serif">
         <b>🎮 Hi there, welcome on my Github profile! 🐺</b>
     </h1>
-    <h2>
+    <h2 style="color:purple;background-color:black">
         I am a university student of computer science and aspiring game developer.💻👾
-    </h2>
-    <h2>
+    </n>
+    <h2 style="color:purple;background-color:black">
         I'll publish here all my works, projects and some notes made during my student career!
     </h2>
 </p>

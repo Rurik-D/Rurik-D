@@ -80,16 +80,17 @@
 
 ---
 
-<p align="center">
+
     <img src="https://github-readme-stats.vercel.app/api?username=Rurik-D&theme=radical&count_private=true" />
 </p>
 
 ---
-<tr>
-    <td>
-    <img align="center" src="https://github.com/Rurik-D/Rurik-D/blob/main/gif/x.gif" width="300"/>
-    </td>
-</tr>
+
+<p align="center">
+    <tr>
+    <img src="https://github.com/Rurik-D/Rurik-D/blob/main/gif/x.gif" width="300"/>
+    </tr>
+</p>
 
 <!--
 <tr>

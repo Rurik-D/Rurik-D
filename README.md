@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/Rurik-D/Practical-Programming-Notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rurik-D&show_owner&repo=Practical-Programming-Notes&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rurik-D&show_owner&repo=Practical-Programming-Notes&theme=midnight-purple" />
   </a>
 </p>
 
@@ -74,14 +74,14 @@
 
 <p align="center">
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rurik-D&theme=radical&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rurik-D&theme=midnight-purple&layout=compact" />
     </tr>
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rurik-D&theme=radical&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rurik-D&theme=midnight-purple&count_private=true" />
 </p>
 
 ---

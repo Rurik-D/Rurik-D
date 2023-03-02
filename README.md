@@ -1,17 +1,22 @@
 
-<p style="color:purple">
-    <h1 align="center" style="color:purple;background-color:black;font-family:CMU Serif">
+<p>
+    <h1 align="center">
         <b>🎮 Hi there, welcome on my Github profile! 🐺</b>
     </h1>
-    <h2 style="color:purple;background-color:black">
+    <h2>
         I am a university student of computer science and aspiring game developer.💻👾
-    </n>
-    <h2 style="color:purple;background-color:black">
+    </h2>
+    <h2>
         I'll publish here all my works, projects and some notes made during my student career!
     </h2>
 </p>
 
+<!--
+### $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+-->
+
 ---
+
 <p>
     <h2>
         <b>Practical Programming Notes (ita):</b>
@@ -63,7 +68,7 @@
 
 <p align="center">
     <tr>
-        <td><strong><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="drawing" width="34"/><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="drawing" width="34"/><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="drawing" width="34"/><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="drawing" width="39"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="drawing" width="34"/><img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" alt="drawing" width="34"/><img src="https://avatars.githubusercontent.com/u/1284937?s=200&v=4" alt="drawing" width="34"/></td>
+        <td><strong><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="34"/><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="34"/><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="34"/><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="39"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="34"/><img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"  width="34"/><img src="https://avatars.githubusercontent.com/u/1284937?s=200&v=4" width="34"/></td>
     </tr>
 </p>
 
@@ -80,3 +85,16 @@
 </p>
 
 ---
+<tr>
+    <td>
+    <img src="https://github.com/Rurik-D/Rurik-D/blob/main/gif/x.gif"/>
+    </td>
+</tr>
+
+<!--
+<tr>
+    <td>
+    <img src="https://i.pinimg.com/originals/5c/5b/64/5c5b64a1fe6f9f7835cfb4fb78990ce0.gif"/>
+    </td>
+</tr>
+-->

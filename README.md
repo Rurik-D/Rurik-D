@@ -1,6 +1,6 @@
 
-<p align="center">
-    <h1>
+<p>
+    <h1 align="center">
         <b>🎮 Hi there, welcome on my Github profile! 🐺</b>
     </h1>
     <h2>

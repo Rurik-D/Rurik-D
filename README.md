@@ -4,14 +4,43 @@
 
 
 ---
+<div>
+<tr>
+    <td align = "center"><strong>Materia</td>
+</tr>
+</div>
 
 ## **Practical Programming Notes (ita):**
 
- Materia           | Appunti | Esercizi |Stato 
--------------------|---------|----------|-------
- Assembly (Mips)   | [[x](https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Assembly%20(mips)/Appunti)]     | [ ]      | Appunti da revisionare
- Python            | [ ]     | [[x](https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Python/Esercizi)]      | In corso
- Java              | [ ]     | [ ]      | Da pubblicare
+<table>
+  <tr>
+    <td align = "center"><strong>Materia</td>
+    <td align = "center"><strong>Appunti</td>
+    <td align = "center"><strong>Esercizi</td>
+    <td align = "center"><strong>Stato</td>
+  </tr>
+  <tr>
+    <td align = "center">Assembly (Mips)</td>
+    <td align = "center"><a style="display:block;" href="https://github.com"> 
+        <div> ✓ </div> 
+    </td>
+    <td align="center">-</td>
+    <td align = "center">Da revisionare</td>
+  <tr>
+    <td align = "center">Python</td>
+    <td align = "center">-</td>
+        <td align = "center"><a style="display:block;" href="https://github.com">
+        <div> ✓ </div>
+    </td>
+    <td align = "center">In corso</td>
+  </tr>
+  <tr>
+    <td align = "center">Java</td>
+    <td align = "center">-</td>
+    <td align = "center">-</td>
+    <td align = "center">Da pubblicare</td>
+  </tr>
+</table>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rurik-D&show_owner&repo=Practical-Programming-Notes&theme=radical)](https://github.com/Rurik-D/Practical-Programming-Notes)
 

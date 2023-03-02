@@ -1,43 +1,51 @@
-#  🎮 **Hi there, welcome on my Github profile!** 🐺
-## I am a university student of computer science and aspiring game developer.💻👾   
-## I'll publish here all my works, projects and some notes made during my student career!
 
+<p align="center">
+    <h1>
+        <b>🎮 Hi there, welcome on my Github profile! 🐺</b>
+    </h1>
+    <h2>
+        I am a university student of computer science and aspiring game developer.💻👾
+    </h2>
+    <h2>
+        I'll publish here all my works, projects and some notes made during my student career!
+    </h2>
+</p>
 
 ---
-
-## **Practical Programming Notes (ita):**
-
-
-<table align="center">
-<tr>
-    <td align = "center"><strong>Materia</td>
-    <td align = "center"><strong>Appunti</td>
-    <td align = "center"><strong>Esercizi</td>
-    <td align = "center"><strong>Stato</td>
-</tr>
-<tr>
-    <td align = "center">Assembly (Mips)</td>
-    <td align = "center"><a style="display:block;" href="https://github.com"> 
-        <div> ✓ </div> 
-    </td>
-    <td align="center">-</td>
-    <td align = "center">Da revisionare</td>
-<tr>
-    <td align = "center">Python</td>
-    <td align = "center">-</td>
-        <td align = "center"><a style="display:block;" href="https://github.com">
-        <div> ✓ </div>
-    </td>
-    <td align = "center">In corso</td>
-</tr>
-<tr>
-    <td align = "center">Java</td>
-    <td align = "center">-</td>
-    <td align = "center">-</td>
-    <td align = "center">Da pubblicare</td>
-</tr>
-</table>
-
+<p>
+    <h2>
+        <b>Practical Programming Notes (ita):</b>
+    </h2>
+    <table align="center">
+    <tr>
+        <td align = "center"><strong>Materia</td>
+        <td align = "center"><strong>Appunti</td>
+        <td align = "center"><strong>Esercizi</td>
+        <td align = "center"><strong>Stato</td>
+    </tr>
+    <tr>
+        <td align = "center">Assembly (Mips)</td>
+        <td align = "center"><a style="display:block;" href="https://github.com"> 
+            <div> ✓ </div> 
+        </td>
+        <td align="center">-</td>
+        <td align = "center">Da revisionare</td>
+    <tr>
+        <td align = "center">Python</td>
+        <td align = "center">-</td>
+            <td align = "center"><a style="display:block;" href="https://github.com">
+            <div> ✓ </div>
+        </td>
+        <td align = "center">In corso</td>
+    </tr>
+    <tr>
+        <td align = "center">Java</td>
+        <td align = "center">-</td>
+        <td align = "center">-</td>
+        <td align = "center">Da pubblicare</td>
+    </tr>
+    </table>
+</p>
 
 <p align="center">
   <a href="https://github.com/Rurik-D/Practical-Programming-Notes">
@@ -45,10 +53,13 @@
   </a>
 </p>
 
-
 ---
 
-## **Languages and Tools:**  
+<p>
+    <h2>
+        <b>Languages and Tools:</b>
+    </h2>
+</p>
 
 <p align="center">
     <tr>
@@ -69,4 +80,3 @@
 </p>
 
 ---
-

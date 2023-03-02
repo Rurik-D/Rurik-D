@@ -7,7 +7,7 @@
 
 ## **Practical Programming Notes (ita):**
 
-<p align="center">
+<center>
     <table>
     <tr>
         <td align = "center"><strong>Materia</td>
@@ -37,7 +37,7 @@
         <td align = "center">Da pubblicare</td>
     </tr>
     </table>
-</p>
+</center>
 
 <p align="center">
   <a href="https://github.com/Rurik-D/Practical-Programming-Notes">

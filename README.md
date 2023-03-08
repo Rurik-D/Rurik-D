@@ -18,7 +18,7 @@
 ---
 
 <p>
-    <h2 align = "center">
+    <h2>
         <b>University-notes</b>
     </h2>
     <h3>
@@ -112,7 +112,7 @@
 ---
 
 <p>
-    <h2 align = "center">
+    <h2>
         <b>Practical Programming Notes</b>
     </h2>
     <h3>
@@ -158,7 +158,7 @@
 ---
 <p>
     <h2>
-        <b>Languages and Tools:</b>
+        <b>Languages and Tools</b>
     </h2>
 </p>
 
@@ -178,7 +178,7 @@
 
 <p>
     <h2>
-        <b>Stats:</b>
+        <b>Stats</b>
     </h2>
 </p>
 

@@ -176,10 +176,13 @@
 
 ---
 
-<p align="center">
+<p>
     <h2>
         <b>Stats:</b>
     </h2>
+</p>
+
+<p align="center">
     <tr>
         <img src="https://github-readme-stats.vercel.app/api?username=Rurik-D&theme=midnight-purple&count_private=true" />
     </tr>

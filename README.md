@@ -112,8 +112,8 @@
 ---
 
 <p>
-    <h2>
-        <b>Practical Programming Notes (ita):</b>
+    <h2 align = "center">
+        <b>Practical Programming Notes</b>
     </h2>
     <table align="center">
     <tr>

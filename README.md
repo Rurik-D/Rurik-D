@@ -115,6 +115,9 @@
     <h2 align = "center">
         <b>Practical Programming Notes</b>
     </h2>
+    <h3>
+        Questi sono alcuni appunti di programmazione fatti durante la mia carriera universitaria. Spero possano tornare utili a chiunque stia cercando alcuni esercizi e spiegazioni pratiche riguardo le materie del corso di informatica.
+    </h3>
     <table align="center">
     <tr>
         <td align = "center"><strong>Materia</td>
@@ -174,6 +177,9 @@
 ---
 
 <p align="center">
+    <h2>
+        <b>Stats:</b>
+    </h2>
     <img src="https://github-readme-stats.vercel.app/api?username=Rurik-D&theme=midnight-purple&count_private=true" />
 </p>
 

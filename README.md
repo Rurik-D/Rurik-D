@@ -153,9 +153,7 @@
   <a href="https://github.com/Rurik-D/Practical-Programming-Notes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rurik-D&show_owner&repo=Practical-Programming-Notes&theme=midnight-purple" />
   </a>
-    <h3>
-        <b>PS: Per chiunque sia interessato, offro ripetizioni di programmazione in python dal livello principiante (nessuna conoscenza di programmazione) al livello medio (programmazione ad oggetti e GUI). Per informazioni non esitate a contattarmi via mail tramite <a href="mailto:rurik02.d@gmail.com">rurik02.d@gmail.com</a>.<b>
-    </h3>
+
 </p>
 
 

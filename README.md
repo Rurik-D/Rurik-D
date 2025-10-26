@@ -3,12 +3,6 @@
     <h1 align="center">
         <b>Hi there, welcome on my Github profile! 🐺</b>
     </h1>
-    <h2>
-        I am a university student of computer science.💻
-    </h2>
-    <h2>
-        I'll publish here all my works, projects and some notes made during my student career!
-    </h2>
 </p>
 
 <!--
